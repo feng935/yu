@@ -1,1 +1,1 @@
-Hello,wold!
+print("Hello, a wold!")
